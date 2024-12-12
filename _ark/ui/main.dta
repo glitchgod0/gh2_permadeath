@@ -38,6 +38,8 @@
       {$this set_focus main_career.btn}
       ;permadeath disables quickplay
       {$this disable main_quickspin.btn}
+      ;disable leaderboards
+      {$this disable main_leaderboards.btn}
       ;don't scan dlc
       ;{content_mgr start_enumeration}
       ;enable hyperspeed
